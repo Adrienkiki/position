@@ -1,0 +1,24 @@
+
+.green {
+    margin: auto;
+    width: 120px;
+    background-color: green;
+
+}
+
+.blue  {
+    background-color: blue;
+
+}
+
+.chocolate {
+    background-color: chocolate;
+    position: absolute;
+    top: 100px;
+}
+div {
+
+border: 3px ,solid  black;
+padding: 20px;
+position: relative;
+}
