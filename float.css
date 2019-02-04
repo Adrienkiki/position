@@ -1,0 +1,53 @@
+.box {
+    border: 3px solid black;
+    width: 560px;
+    height: 100px;
+    position: relative;
+    padding: 5px;
+    background-color: brown;
+    top: 150px;
+    right:-35px;
+    
+}
+
+.sky, .green, .blue, .chocolate {
+    border: 3px solid black;
+    
+    width: 100px;
+    height: 100px; 
+}
+
+.sky {
+    background-color: aqua;
+    right: 8px;
+    top: -150px;
+    
+}
+.green {
+    background-color: green;  
+    left: 275px;
+    bottom: 43px;
+    float: left;
+}
+.blue  {
+    background-color: blue;
+    right: -420px;
+    top: 110px;
+   
+}
+
+.chocolate {
+    background-color: chocolate;
+    right: -140px;
+    bottom: 442px;
+    
+
+}
+div {
+
+border: 3px ,solid  black;
+padding: 20px;
+position: relative;
+width: 100px;
+height: 100px; 
+}
