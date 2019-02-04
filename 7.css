@@ -1,0 +1,39 @@
+
+
+.box {
+    border: 3px solid black;
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: brown;
+
+ 
+}
+.sky, .green, .blue, .chocolate {
+    border: 3px solid black;
+    width: 100px;
+    height: 100px; 
+  
+}
+
+.sky {
+    background-color: aqua;
+    float: left;
+    
+}
+.green {
+    background-color: green;  
+    float: left;
+}
+.blue  {
+    background-color: blue;
+    float: right;
+   
+}
+
+.chocolate {
+    background-color: chocolate;
+    float: right
+    
+
+}
