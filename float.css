@@ -12,42 +12,38 @@
 
 .sky, .green, .blue, .chocolate {
     border: 3px solid black;
-    
     width: 100px;
     height: 100px; 
+    position: absolute;
 }
 
 .sky {
     background-color: aqua;
-    right: 8px;
-    top: -150px;
+    right: 365px;
+    top: -106px;
     
 }
 .green {
     background-color: green;  
-    left: 275px;
-    bottom: 43px;
-    float: left;
+    left: -3px;
+    bottom: 110px;
+    
 }
 .blue  {
     background-color: blue;
-    right: -420px;
+    right: 100px;
     top: 110px;
    
 }
 
 .chocolate {
     background-color: chocolate;
-    right: -140px;
-    bottom: 442px;
+    right: -3px;
+    bottom: -106px;
     
 
 }
 div {
 
-border: 3px ,solid  black;
-padding: 20px;
-position: relative;
-width: 100px;
-height: 100px; 
+
 }
