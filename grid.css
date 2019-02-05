@@ -1,0 +1,167 @@
+.conteneur {
+    background: black;
+    height: 95vh;
+    grid-gap: 8px;
+    display:grid;
+    grid-template-areas: 
+    "w1  w2   w2   w2   w2   w2   w2   w2   w3   w3   w3   w3   w3   w3   w3   w3   w4  y1"
+    "w1  bl1  bl1  bl1  bl1  bl1  bl1  bl1  w5   w5   w5   bl2  bl2  bl2  bl2  bl2  w4  y1"
+    "w1  bl1  bl1  bl1  bl1  bl1  bl1  bl1  w5   w5   w5   bl2  bl2  bl2  bl2  bl2  w4  y1"
+    "b1  w6   w6   b2   w7   w7   w7   w8   y2   y2   y2   r1   r1   r1   r1   r2   w4  y1"
+    "b1  w6   w6   b2   w7   w7   w7   w8   y2   y2   y2   r1   r1   r1   r1   r2   w4  y1"
+    "b1  w6   w6   b2   w7   w7   w7   w8   y2   y2   y2   r1   r1   r1   r1   r2   w4  y1"
+    "b1  w6   w6   b2   w7   w7   w7   w8   y2   y2   y2   r1   r1   r1   r1   r2   w4  y1"
+    "b1  w6   w6   b2   y3   r3   r3   r3   bl3  bl3  bl3  w9   w9   w9   w9   w10  b3  b3"
+    "b1  w6   w6   b2   y3   r3   r3   r3   bl3  bl3  bl3  w9   w9   w9   w9   w10  b3  b3";
+    
+    
+}
+   
+
+.w1 {
+    grid-area: w1;
+    background: white;
+}
+
+.w2 {
+    grid-area: w2;
+    background: white;
+}
+.w3 {
+    grid-area: w3;
+    background: white;
+}
+.w4 {
+    grid-area: w4;
+    background: white;
+}
+.w5 {
+    grid-area: w5;
+    background: white;
+}
+.w6 {
+    grid-area: w6;
+    background: white;
+}
+.w7 {
+    grid-area: w7;
+    background: white;
+}
+.w8 {
+    grid-area: w8;
+    background: white;
+}
+.w9 {
+    grid-area: w9;
+    background: white;
+}
+.w10 {
+    grid-area: w10;
+    background: white;
+}
+.w11 {
+    grid-area: w11;
+    background: white;
+}
+.w12 {
+    grid-area: w12;
+    background: white;
+}
+.w13 {
+    grid-area: w13;
+    background: white;
+}
+.w14 {
+    grid-area: w14;
+    background: white;
+}
+.w15 {
+    grid-area: w15;
+    background: white;
+}
+.w16 {
+    grid-area: w16;
+    background: white;
+}
+.y1 {
+    grid-area: y1;
+    background: yellow;
+}
+.y2 {
+    grid-area: y2;
+    background: yellow;
+}
+.y3 {
+    grid-area: y3;
+    background: yellow;
+}
+.y4 {
+    grid-area: y4;
+    background: yellow;
+}
+.y5 {
+    grid-area: y5;
+    background: yellow;
+}
+.r1 {
+    grid-area: r1;
+    background: red;
+}
+.r2 {
+    grid-area: r2;
+    background: red;
+}
+
+.r3 {
+    grid-area: r3;
+    background: red;
+}
+
+.r4 {
+    grid-area: r4;
+    background: red;
+}
+.r5 {
+    grid-area: r5;
+    background: red;
+}
+.b1 {
+    grid-area: b1;
+    background: black;
+}
+.b2 {
+    grid-area: b2;
+    background: black;
+}
+.b3 {
+    grid-area: b3;
+    background: black;
+}
+.b4 {
+    grid-area: b4;
+    background: black;
+}
+.b5 {
+    grid-area: b5;
+    background: black;
+}
+.bl1 {
+    grid-area: bl1;
+    background: blue;
+}
+.bl2 {
+    grid-area: bl2;
+    background: blue;
+}
+.bl3 {
+    grid-area: bl3;
+    background: blue;
+}
+.bl4 {
+    grid-area: bl4;
+    background: blue;
+}
+.bl5 {
+    grid-area: bl5;
+    background: blue;
+}
