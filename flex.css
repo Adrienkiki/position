@@ -4,7 +4,7 @@
  padding: 0;
 }
 header {
-
+ font-style: italic;
  text-align: center;
  background-color: red;
  flex: 1.3;

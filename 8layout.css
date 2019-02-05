@@ -1,7 +1,8 @@
 
 ul {
+    border-radius: 10px;
     width: 100px;
-    background-color: orange;
+    background-color: hsl(22, 100%, 50%);
 }
 article {
     width: 60%;
