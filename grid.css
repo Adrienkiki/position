@@ -1,8 +1,10 @@
+
 .conteneur {
     background: black;
     height: 95vh;
     grid-gap: 8px;
     display:grid;
+    padding: 8px;
     grid-template-areas: 
     "w1  w2   w2   w2   w2   w2   w2   w2   w3   w3   w3   w3   w3   w3   w3   w3   w4  y1"
     "w1  bl1  bl1  bl1  bl1  bl1  bl1  bl1  w5   w5   w5   bl2  bl2  bl2  bl2  bl2  w4  y1"
