@@ -1,4 +1,11 @@
-div {
+.ul1, .ul2 {
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    background-color: gray;
+}
+
+.main {
     margin-left: 50px;
     width: 50px;
     height: 50px;
@@ -9,10 +16,39 @@ div {
     animation-direction: alternate;
 }
 .transformation {
-    transform: perspective(500px) scale3d(0.8 ,2, 0.2) translateZ(100px);
+    transform: perspective(500px) scale3d( 1,2, 0.2) translateZ(100px);
     background-color: blue;
 }
 @keyframes example{
     0%{background-color:teal;}
     100%{background-color: blue; transform: rotate(360deg);}
 }
+
+.circle {
+   
+    display: block;
+    background: palevioletred;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    margin: 0;
+}
+
+
+#keyframes-animation:hover {
+    background:gray;
+    border-radius: 10px;
+    animation-duration : 5s; 
+    animation-name : animation; 
+    animation-direction: alternate;
+    border : 1px solid #666; 
+    padding : 5px; 
+    width : 90%; 
+}
+@keyframes animation{
+   
+    0% {width: 50%}
+    100% {width: 60%}
+    
+}
+
