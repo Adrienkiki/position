@@ -17,26 +17,26 @@
 
 .sky {
     background-color: aqua;
-    right: 240px;
-    top: 15px;
+    right: 220px;
+    top: 30px;
     
 }
 .green {
     background-color: green;  
-    left: 14px;
+    left: 35px;
     bottom: 20px;
 }
 .blue  {
     background-color: blue;
-    right: 15px;
+    right: 30px;
     top: 235px;
    
 }
 
 .chocolate {
     background-color: chocolate;
-    right: 15px;
-    bottom: 238px;
+    right: 30px;
+    bottom: 223px;
     
 
 }
